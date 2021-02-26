@@ -1,0 +1,15 @@
+﻿<Window x:Class="VizTutorial.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VizTutorial"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="VIZ_TXT" Width="200" Height="30"></TextBox>
+        <Button Margin="0,70,0,0" Height="30" Width="100" Content="Send To Viz" Click="Button_Click"></Button>
+      
+ 
+    </Grid>
+</Window>

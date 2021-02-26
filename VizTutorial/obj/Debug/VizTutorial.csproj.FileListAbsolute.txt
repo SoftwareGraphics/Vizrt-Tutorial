@@ -1,0 +1,17 @@
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\bin\Debug\VizTutorial.exe.config
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\bin\Debug\VizTutorial.exe
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\bin\Debug\VizTutorial.pdb
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\bin\Debug\VizConnectC.dll
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.csprojAssemblyReference.cache
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\MainWindow.g.cs
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\App.g.cs
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial_MarkupCompile.cache
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial_MarkupCompile.lref
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\MainWindow.baml
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.g.resources
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.Properties.Resources.resources
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.csproj.GenerateResource.cache
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.csproj.CoreCompileInputs.cache
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.csproj.CopyComplete
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.exe
+C:\Users\atara\source\repos\VizTutorial\VizTutorial\obj\Debug\VizTutorial.pdb
